@@ -13,7 +13,7 @@ Example Output: `A`
 
 ### Royal Flush
 
-Ace, King, Queen, Jack and Ten all in the same suit.
+Ace, King, Queen, Jack and Ten all in the same suit. Any two royal flushes are equal and result in a tie.
 
 ### Straight Flush
 
