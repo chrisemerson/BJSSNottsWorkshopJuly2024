@@ -6,7 +6,7 @@ Your program should accept an input of 2 strings representing a poker hand, and 
 
 Each card is a rank (`2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `T`, `J`, `Q`, `K`, `A`) followed by a suit (`S`, `H`, `C`, `D`), and the name can be any alphabetical string (`^[A-Za-z]+$`)
 
-Example Input: `myprogram A:4S,3S,5H,6H,2D B:6D,3C,9C,JD,KS`
+Example Input: `myprogram "A:4S,3S,5H,6H,2D" "B:6D,3C,9C,JD,KS"`
 Example Output: `A`
 
 ## Poker Hands
